@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajmalkhan92
 - 👀 I’m interested in Software Testing, Automation, Devops
-- 🌱 I’m currently learning Design Patterns For Automation Framework
+- 🌱 I’m currently learning Deployment strategy for node services
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
